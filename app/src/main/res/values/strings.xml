@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjetoMobile</string>
+    <string name="usuario">Digite o usuário</string>
+    <string name="senha">Digite a senha</string>
+    <string name="botao">Logar</string>
+    <string name="title_activity_busca">BuscaActivity</string>
+    <string name="busca">O que procura?</string>
+    <string name="buscar">Buscar</string>
+    <string name="novoChamado">Novo Chamado</string>
+    <string name="salvar">Salvar</string>
+    <string name="descricao">Descrição</string>
+    <string name="descricaoSimples">Descrição em uma linha</string>
+
+</resources>
